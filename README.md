@@ -25,8 +25,8 @@ The challenge is almost the same with the Bento-grid, theres a liitle bit challe
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-testimonial-grid-UO2ugJGqpC
+- Live Site URL: https://otep02.github.io/Testimonial-Grid/
 
 ## My process
 
